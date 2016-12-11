@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_weather">Weather</string>
+    <string name="nav_setting">Setting</string>
+    <string name="author">Minghao Pu</string>
+    <string name="email">nealpu@gwu.edu</string>
+    <string name="format_switch">˚F/˚C</string>
+    <string name="label_format">Temperature Format</string>
+    <string name="label_current">Use Current Location</string>
+    <string name="label_days">Available Days</string>
+
+    <string name="label_zipcode">Zip Code</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Cancel">Cancel</string>
+
+</resources>

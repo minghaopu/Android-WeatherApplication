@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">天气应用</string>
+
+    <string name="navigation_drawer_open">打开</string>
+    <string name="navigation_drawer_close">关闭</string>
+
+    <string name="action_settings">设置</string>
+    <string name="nav_weather">天气</string>
+    <string name="nav_setting">设置</string>
+    <string name="author">Minghao Pu</string>
+    <string name="email">nealpu@gwu.edu</string>
+    <string name="format_switch">˚F/˚C</string>
+    <string name="label_format">气温格式</string>
+    <string name="label_current">使用当前位置</string>
+    <string name="label_days">显示天数</string>
+
+    <string name="label_zipcode">邮编</string>
+    <string name="Confirm">确认</string>
+    <string name="Cancel">取消</string>
+
+</resources>
